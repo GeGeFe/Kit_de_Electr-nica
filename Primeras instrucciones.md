@@ -1,0 +1,59 @@
+Estos son los componentes que usé y con los que se pueden hacer seguro los circuitos del monoestable, biestable, astable y pianito. Todavía no probé otros. Sobran componentes por ahora.
+
+- Capacitores
+	- Electrolíticos
+		- C01-C02 2200uF 25v
+		- C03-C04 1200uF 16v
+		- C05-C06 1200uF 16v
+		- C07-C08 470uF 10v
+		- C09-C10 470uF 10v
+		- C11-C12 100uF 50v
+		- C13-C14 100uF 25v
+		- C15-C16 10uF 50v
+		- C17-C18 10uF 50v
+		- C19-C20 1uF 50v
+		- C21-C22 1uF 50v
+	- Cerámicos
+		- C31-C32 220nF
+		- C33-C34 100nF
+		- C35-C36 100nF
+		- C37-C38 20nF
+		- C39-C40 20nF
+- Resistencias
+	- R01-R02 330k ohm
+	- R03-R04 120k ohm
+	- R05-R06 120k ohm
+	- R07-R08 68k ohm
+	- R09-R10 68k ohm
+	- R11-R12 33k ohm
+	- R13-R14 33k ohm
+	- R15-R16 5k6 ohm
+	- R17-R18 5k6 ohm
+	- R19-R20 4k7 ohm
+	- R21-R22 4k7 ohm
+	- R23-R24 1k ohm
+	- R25-R26 1k ohm
+	- R27-R28 220 ohm
+	- R29-R30 220 ohm
+	- R31-R32 100 ohm
+	- R33-R34 100 ohm
+	- R35-R36 39 ohm
+	- R37-R38 22 ohm
+	- R39-R40 10 ohm
+- Salidas
+	- S01-S02 ánodo-cátodo led amarillo
+	- S03-S04 ánodo-cátodo led verde
+	- S05-S06 ánodo-cátodo led rojo
+	- S07-S08 ánodo-cátodo led rojo
+	- S09-S10 parlante 8ohm
+- Pulsadores y transistores
+	- P01-P02 pulsador 1
+	- P03-P04 pulsador 2
+	- P05-P06 pulsador 3
+	- P07-P08 pulsador 4
+	- P09-P10-P11 E-C-B transistor NPN C945
+	- P12-P13-P14 E-C-B transistor NPN C945
+	- P15-P16-P17 E-B-C transistor PNP BC558
+	- P18-P19-P20 E-B-C transistor PNP BC558
+
+	Hay que sumar 4 cables IDE (Los de los discos rígidos viejos) para las conexiones o reemplazarlos por resortes con los que se puedan apretar los cables. Para esto último habría que rediseñar la plantilla.
