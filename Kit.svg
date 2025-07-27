@@ -14,7 +14,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Kit de electrónica</title>
   <defs
      id="defs1">
     <rect
@@ -1511,7 +1516,7 @@
            inkscape:label="t_pin_02"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan1">02</tspan></text>
+             id="tspan2">02</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-3"
@@ -1520,7 +1525,7 @@
            inkscape:label="t_pin_04"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan3">04</tspan></text>
+             id="tspan158">04</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-4"
@@ -1529,7 +1534,7 @@
            inkscape:label="t_pin_06"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan4">06</tspan></text>
+             id="tspan159">06</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-9-9"
@@ -1538,7 +1543,7 @@
            inkscape:label="t_pin_08"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan5">08</tspan></text>
+             id="tspan160">08</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-0-0"
@@ -1547,7 +1552,7 @@
            inkscape:label="t_pin_10"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan6">10</tspan></text>
+             id="tspan161">10</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-20"
@@ -1556,7 +1561,7 @@
            inkscape:label="t_pin_12"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan7">12</tspan></text>
+             id="tspan162">12</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-9-1"
@@ -1565,7 +1570,7 @@
            inkscape:label="t_pin_14"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan8">14</tspan></text>
+             id="tspan163">14</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-2-9"
@@ -1574,7 +1579,7 @@
            inkscape:label="t_pin_16"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan9">16</tspan></text>
+             id="tspan164">16</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-6"
@@ -1583,7 +1588,7 @@
            inkscape:label="t_pin_18"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan10">18</tspan></text>
+             id="tspan165">18</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-2"
@@ -1592,7 +1597,7 @@
            inkscape:label="t_pin_20"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan11">20</tspan></text>
+             id="tspan166">20</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-8-1"
@@ -1601,7 +1606,7 @@
            inkscape:label="t_pin_22"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan12">22</tspan></text>
+             id="tspan167">22</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-83-2"
@@ -1610,7 +1615,7 @@
            inkscape:label="t_pin_24"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan13">24</tspan></text>
+             id="tspan168">24</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-7"
@@ -1619,7 +1624,7 @@
            inkscape:label="t_pin_26"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan14">26</tspan></text>
+             id="tspan169">26</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-6-3"
@@ -1628,7 +1633,7 @@
            inkscape:label="t_pin_28"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan15">28</tspan></text>
+             id="tspan170">28</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-3-1"
@@ -1637,7 +1642,7 @@
            inkscape:label="t_pin_30"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan16">30</tspan></text>
+             id="tspan171">30</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-1"
@@ -1646,7 +1651,7 @@
            inkscape:label="t_pin_32"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan17">32</tspan></text>
+             id="tspan172">32</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-6-9"
@@ -1655,7 +1660,7 @@
            inkscape:label="t_pin_34"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan18">34</tspan></text>
+             id="tspan173">34</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-7-0"
@@ -1664,7 +1669,7 @@
            inkscape:label="t_pin_36"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan19">36</tspan></text>
+             id="tspan174">36</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-3-5"
@@ -1673,7 +1678,7 @@
            inkscape:label="t_pin_38"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan20">38</tspan></text>
+             id="tspan175">38</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-8-6"
@@ -1682,7 +1687,7 @@
            inkscape:label="t_pin_40"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan21">40</tspan></text>
+             id="tspan176">40</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-6"
@@ -1691,7 +1696,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan22">a</tspan></text>
+             id="tspan177">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0-1"
@@ -1700,7 +1705,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan23">b</tspan></text>
+             id="tspan178">b</tspan></text>
       </g>
       <g
          id="g69"
@@ -1715,7 +1720,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan24">a</tspan></text>
+             id="tspan179">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0"
@@ -1724,7 +1729,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan25">b</tspan></text>
+             id="tspan180">b</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6"
@@ -1733,7 +1738,7 @@
            inkscape:label="t_pin_01"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan26">01</tspan></text>
+             id="tspan181">01</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6"
@@ -1742,7 +1747,7 @@
            inkscape:label="t_pin_03"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan27">03</tspan></text>
+             id="tspan182">03</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2"
@@ -1751,7 +1756,7 @@
            inkscape:label="t_pin_05"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan28">05</tspan></text>
+             id="tspan183">05</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-9"
@@ -1760,7 +1765,7 @@
            inkscape:label="t_pin_07"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan29">07</tspan></text>
+             id="tspan184">07</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-0"
@@ -1769,7 +1774,7 @@
            inkscape:label="t_pin_09"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan30">09</tspan></text>
+             id="tspan185">09</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6"
@@ -1778,7 +1783,7 @@
            inkscape:label="t_pin_11"><tspan
              x="23.878906"
              y="80.265721"
-             id="tspan31">11</tspan></text>
+             id="tspan186">11</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-9"
@@ -1787,7 +1792,7 @@
            inkscape:label="t_pin_13"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan32">13</tspan></text>
+             id="tspan187">13</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-2"
@@ -1796,7 +1801,7 @@
            inkscape:label="t_pin_15"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan33">15</tspan></text>
+             id="tspan188">15</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4"
@@ -1805,7 +1810,7 @@
            inkscape:label="t_pin_17"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan34">17</tspan></text>
+             id="tspan189">17</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2"
@@ -1814,7 +1819,7 @@
            inkscape:label="t_pin_19"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan35">19</tspan></text>
+             id="tspan190">19</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-8"
@@ -1823,7 +1828,7 @@
            inkscape:label="t_pin_21"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan36">21</tspan></text>
+             id="tspan191">21</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-83"
@@ -1832,7 +1837,7 @@
            inkscape:label="t_pin_23"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan37">23</tspan></text>
+             id="tspan192">23</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0"
@@ -1841,7 +1846,7 @@
            inkscape:label="t_pin_25"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan38">25</tspan></text>
+             id="tspan193">25</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-6"
@@ -1850,7 +1855,7 @@
            inkscape:label="t_pin_27"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan39">27</tspan></text>
+             id="tspan194">27</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-3"
@@ -1859,7 +1864,7 @@
            inkscape:label="t_pin_29"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan40">29</tspan></text>
+             id="tspan195">29</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2"
@@ -1868,7 +1873,7 @@
            inkscape:label="t_pin_31"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan41">31</tspan></text>
+             id="tspan196">31</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-6"
@@ -1877,7 +1882,7 @@
            inkscape:label="t_pin_33"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan42">33</tspan></text>
+             id="tspan197">33</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-7"
@@ -1886,7 +1891,7 @@
            inkscape:label="t_pin_35"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan43">35</tspan></text>
+             id="tspan198">35</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-3"
@@ -1895,7 +1900,7 @@
            inkscape:label="t_pin_37"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan44">37</tspan></text>
+             id="tspan199">37</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-8"
@@ -1904,7 +1909,7 @@
            inkscape:label="t_pin_39"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan45">39</tspan></text>
+             id="tspan200">39</tspan></text>
       </g>
       <g
          inkscape:groupmode="layer"
@@ -2626,7 +2631,7 @@
            inkscape:label="t_pin_02"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan46">02</tspan></text>
+             id="tspan201">02</tspan></text>
         <text
            xml:space="preserve"
            id="text131"
@@ -2635,7 +2640,7 @@
            inkscape:label="t_pin_04"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan47">04</tspan></text>
+             id="tspan202">04</tspan></text>
         <text
            xml:space="preserve"
            id="text132"
@@ -2644,7 +2649,7 @@
            inkscape:label="t_pin_06"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan48">06</tspan></text>
+             id="tspan203">06</tspan></text>
         <text
            xml:space="preserve"
            id="text133"
@@ -2653,7 +2658,7 @@
            inkscape:label="t_pin_08"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan49">08</tspan></text>
+             id="tspan204">08</tspan></text>
         <text
            xml:space="preserve"
            id="text134"
@@ -2662,7 +2667,7 @@
            inkscape:label="t_pin_10"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan50">10</tspan></text>
+             id="tspan205">10</tspan></text>
         <text
            xml:space="preserve"
            id="text135"
@@ -2671,7 +2676,7 @@
            inkscape:label="t_pin_12"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan51">12</tspan></text>
+             id="tspan206">12</tspan></text>
         <text
            xml:space="preserve"
            id="text136"
@@ -2680,7 +2685,7 @@
            inkscape:label="t_pin_14"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan52">14</tspan></text>
+             id="tspan207">14</tspan></text>
         <text
            xml:space="preserve"
            id="text137"
@@ -2689,7 +2694,7 @@
            inkscape:label="t_pin_16"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan53">16</tspan></text>
+             id="tspan208">16</tspan></text>
         <text
            xml:space="preserve"
            id="text138"
@@ -2698,7 +2703,7 @@
            inkscape:label="t_pin_18"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan54">18</tspan></text>
+             id="tspan209">18</tspan></text>
         <text
            xml:space="preserve"
            id="text139"
@@ -2707,7 +2712,7 @@
            inkscape:label="t_pin_20"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan55">20</tspan></text>
+             id="tspan210">20</tspan></text>
         <text
            xml:space="preserve"
            id="text140"
@@ -2716,7 +2721,7 @@
            inkscape:label="t_pin_22"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan56">22</tspan></text>
+             id="tspan211">22</tspan></text>
         <text
            xml:space="preserve"
            id="text141"
@@ -2725,7 +2730,7 @@
            inkscape:label="t_pin_24"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan57">24</tspan></text>
+             id="tspan212">24</tspan></text>
         <text
            xml:space="preserve"
            id="text142"
@@ -2734,7 +2739,7 @@
            inkscape:label="t_pin_26"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan58">26</tspan></text>
+             id="tspan213">26</tspan></text>
         <text
            xml:space="preserve"
            id="text143"
@@ -2743,7 +2748,7 @@
            inkscape:label="t_pin_28"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan59">28</tspan></text>
+             id="tspan214">28</tspan></text>
         <text
            xml:space="preserve"
            id="text144"
@@ -2752,7 +2757,7 @@
            inkscape:label="t_pin_30"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan60">30</tspan></text>
+             id="tspan215">30</tspan></text>
         <text
            xml:space="preserve"
            id="text145"
@@ -2761,7 +2766,7 @@
            inkscape:label="t_pin_32"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan61">32</tspan></text>
+             id="tspan216">32</tspan></text>
         <text
            xml:space="preserve"
            id="text146"
@@ -2770,7 +2775,7 @@
            inkscape:label="t_pin_34"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan62">34</tspan></text>
+             id="tspan217">34</tspan></text>
         <text
            xml:space="preserve"
            id="text147"
@@ -2779,7 +2784,7 @@
            inkscape:label="t_pin_36"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan63">36</tspan></text>
+             id="tspan218">36</tspan></text>
         <text
            xml:space="preserve"
            id="text148"
@@ -2788,7 +2793,7 @@
            inkscape:label="t_pin_38"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan64">38</tspan></text>
+             id="tspan219">38</tspan></text>
         <text
            xml:space="preserve"
            id="text149"
@@ -2797,7 +2802,7 @@
            inkscape:label="t_pin_40"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan65">40</tspan></text>
+             id="tspan220">40</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-3-6"
@@ -2806,7 +2811,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan66">a</tspan></text>
+             id="tspan221">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0-5-2"
@@ -2815,7 +2820,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan67">b</tspan></text>
+             id="tspan222">b</tspan></text>
       </g>
       <g
          id="g169"
@@ -2830,7 +2835,7 @@
            inkscape:label="t_pin_41"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan68">01</tspan></text>
+             id="tspan223">01</tspan></text>
         <text
            xml:space="preserve"
            id="text151"
@@ -2839,7 +2844,7 @@
            inkscape:label="t_pin_03"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan69">03</tspan></text>
+             id="tspan224">03</tspan></text>
         <text
            xml:space="preserve"
            id="text152"
@@ -2848,7 +2853,7 @@
            inkscape:label="t_pin_05"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan70">05</tspan></text>
+             id="tspan225">05</tspan></text>
         <text
            xml:space="preserve"
            id="text153"
@@ -2857,7 +2862,7 @@
            inkscape:label="t_pin_07"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan71">07</tspan></text>
+             id="tspan226">07</tspan></text>
         <text
            xml:space="preserve"
            id="text154"
@@ -2866,7 +2871,7 @@
            inkscape:label="t_pin_09"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan72">09</tspan></text>
+             id="tspan227">09</tspan></text>
         <text
            xml:space="preserve"
            id="text155"
@@ -2875,7 +2880,7 @@
            inkscape:label="t_pin_11"><tspan
              x="23.878906"
              y="80.265721"
-             id="tspan73">11</tspan></text>
+             id="tspan228">11</tspan></text>
         <text
            xml:space="preserve"
            id="text156"
@@ -2884,7 +2889,7 @@
            inkscape:label="t_pin_13"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan74">13</tspan></text>
+             id="tspan229">13</tspan></text>
         <text
            xml:space="preserve"
            id="text157"
@@ -2893,7 +2898,7 @@
            inkscape:label="t_pin_15"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan75">15</tspan></text>
+             id="tspan230">15</tspan></text>
         <text
            xml:space="preserve"
            id="text158"
@@ -2902,7 +2907,7 @@
            inkscape:label="t_pin_17"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan76">17</tspan></text>
+             id="tspan231">17</tspan></text>
         <text
            xml:space="preserve"
            id="text159"
@@ -2911,7 +2916,7 @@
            inkscape:label="t_pin_19"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan77">19</tspan></text>
+             id="tspan232">19</tspan></text>
         <text
            xml:space="preserve"
            id="text160"
@@ -2920,7 +2925,7 @@
            inkscape:label="t_pin_21"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan78">21</tspan></text>
+             id="tspan233">21</tspan></text>
         <text
            xml:space="preserve"
            id="text161"
@@ -2929,7 +2934,7 @@
            inkscape:label="t_pin_23"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan79">23</tspan></text>
+             id="tspan234">23</tspan></text>
         <text
            xml:space="preserve"
            id="text162"
@@ -2938,7 +2943,7 @@
            inkscape:label="t_pin_25"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan80">25</tspan></text>
+             id="tspan235">25</tspan></text>
         <text
            xml:space="preserve"
            id="text163"
@@ -2947,7 +2952,7 @@
            inkscape:label="t_pin_27"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan81">27</tspan></text>
+             id="tspan236">27</tspan></text>
         <text
            xml:space="preserve"
            id="text164"
@@ -2956,7 +2961,7 @@
            inkscape:label="t_pin_29"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan82">29</tspan></text>
+             id="tspan237">29</tspan></text>
         <text
            xml:space="preserve"
            id="text165"
@@ -2965,7 +2970,7 @@
            inkscape:label="t_pin_31"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan83">31</tspan></text>
+             id="tspan238">31</tspan></text>
         <text
            xml:space="preserve"
            id="text166"
@@ -2974,7 +2979,7 @@
            inkscape:label="t_pin_33"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan84">33</tspan></text>
+             id="tspan239">33</tspan></text>
         <text
            xml:space="preserve"
            id="text167"
@@ -2983,7 +2988,7 @@
            inkscape:label="t_pin_35"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan85">35</tspan></text>
+             id="tspan240">35</tspan></text>
         <text
            xml:space="preserve"
            id="text168"
@@ -2992,7 +2997,7 @@
            inkscape:label="t_pin_37"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan86">37</tspan></text>
+             id="tspan241">37</tspan></text>
         <text
            xml:space="preserve"
            id="text169"
@@ -3001,7 +3006,7 @@
            inkscape:label="t_pin_39"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan87">39</tspan></text>
+             id="tspan242">39</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-3"
@@ -3010,7 +3015,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan88">a</tspan></text>
+             id="tspan243">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0-5"
@@ -3019,7 +3024,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan89">b</tspan></text>
+             id="tspan244">b</tspan></text>
       </g>
       <g
          id="g188"
@@ -3402,7 +3407,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan90">b</tspan></text>
+             id="tspan245">b</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0-7"
@@ -3411,7 +3416,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan91">a</tspan></text>
+             id="tspan246">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-4"
@@ -3420,7 +3425,7 @@
            inkscape:label="t_pin_01"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan92">01</tspan></text>
+             id="tspan247">01</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-4"
@@ -3429,7 +3434,7 @@
            inkscape:label="t_pin_03"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan93">02</tspan></text>
+             id="tspan248">02</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-3"
@@ -3438,7 +3443,7 @@
            inkscape:label="t_pin_05"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan94">03</tspan></text>
+             id="tspan250">03</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-9-7"
@@ -3447,7 +3452,7 @@
            inkscape:label="t_pin_07"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan95">04</tspan></text>
+             id="tspan251">04</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-0-6"
@@ -3456,7 +3461,7 @@
            inkscape:label="t_pin_09"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan96">05</tspan></text>
+             id="tspan252">05</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-8"
@@ -3465,7 +3470,7 @@
            inkscape:label="t_pin_11"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan97">06</tspan></text>
+             id="tspan253">06</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-9-3"
@@ -3474,7 +3479,7 @@
            inkscape:label="t_pin_13"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan98">07</tspan></text>
+             id="tspan254">07</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-2-4"
@@ -3483,7 +3488,7 @@
            inkscape:label="t_pin_15"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan99">08</tspan></text>
+             id="tspan255">08</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-20"
@@ -3492,7 +3497,7 @@
            inkscape:label="t_pin_17"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan100">09</tspan></text>
+             id="tspan256">09</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-89"
@@ -3501,7 +3506,7 @@
            inkscape:label="t_pin_19"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan101">10</tspan></text>
+             id="tspan257">10</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-8-6"
@@ -3510,7 +3515,7 @@
            inkscape:label="t_pin_21"><tspan
              x="23.878906"
              y="80.265721"
-             id="tspan102">11</tspan></text>
+             id="tspan258">11</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-83-4"
@@ -3519,7 +3524,7 @@
            inkscape:label="t_pin_23"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan103">12</tspan></text>
+             id="tspan259">12</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-5"
@@ -3528,7 +3533,7 @@
            inkscape:label="t_pin_25"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan104">13</tspan></text>
+             id="tspan260">13</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-6-4"
@@ -3537,7 +3542,7 @@
            inkscape:label="t_pin_27"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan105">14</tspan></text>
+             id="tspan261">14</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-3-7"
@@ -3546,7 +3551,7 @@
            inkscape:label="t_pin_29"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan106">15</tspan></text>
+             id="tspan262">15</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-72"
@@ -3555,7 +3560,7 @@
            inkscape:label="t_pin_31"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan107">16</tspan></text>
+             id="tspan263">16</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-6-2"
@@ -3564,7 +3569,7 @@
            inkscape:label="t_pin_33"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan108">17</tspan></text>
+             id="tspan264">17</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-7-6"
@@ -3573,7 +3578,7 @@
            inkscape:label="t_pin_35"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan111">18</tspan></text>
+             id="tspan265">18</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-3-0"
@@ -3582,7 +3587,7 @@
            inkscape:label="t_pin_37"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan112">19</tspan></text>
+             id="tspan266">19</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-8-1"
@@ -3591,7 +3596,7 @@
            inkscape:label="t_pin_39"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan113">20</tspan></text>
+             id="tspan267">20</tspan></text>
       </g>
       <g
          id="g50"
@@ -4080,7 +4085,7 @@
            inkscape:label="t_pin_col_a"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan114">a</tspan></text>
+             id="tspan268">a</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-6-0-8"
@@ -4089,7 +4094,7 @@
            inkscape:label="t_pin_col_b"><tspan
              x="25.806641"
              y="80.265721"
-             id="tspan115">b</tspan></text>
+             id="tspan269">b</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-6-2"
@@ -4098,7 +4103,7 @@
            inkscape:label="t_pin_01"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan116">01</tspan></text>
+             id="tspan270">01</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-47"
@@ -4107,7 +4112,7 @@
            inkscape:label="t_pin_03"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan117">02</tspan></text>
+             id="tspan271">02</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-40"
@@ -4116,7 +4121,7 @@
            inkscape:label="t_pin_05"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan118">03</tspan></text>
+             id="tspan272">03</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-9-2"
@@ -4125,7 +4130,7 @@
            inkscape:label="t_pin_07"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan119">04</tspan></text>
+             id="tspan273">04</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-0-9"
@@ -4134,7 +4139,7 @@
            inkscape:label="t_pin_09"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan120">05</tspan></text>
+             id="tspan274">05</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-81"
@@ -4143,7 +4148,7 @@
            inkscape:label="t_pin_11"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan121">06</tspan></text>
+             id="tspan275">06</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-9-11"
@@ -4152,7 +4157,7 @@
            inkscape:label="t_pin_13"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan122">07</tspan></text>
+             id="tspan276">07</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-2-3"
@@ -4161,7 +4166,7 @@
            inkscape:label="t_pin_15"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan123">08</tspan></text>
+             id="tspan277">08</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-0"
@@ -4170,7 +4175,7 @@
            inkscape:label="t_pin_17"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan124">09</tspan></text>
+             id="tspan278">09</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-9"
@@ -4179,7 +4184,7 @@
            inkscape:label="t_pin_19"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan125">10</tspan></text>
+             id="tspan281">10</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-8-9"
@@ -4188,7 +4193,7 @@
            inkscape:label="t_pin_21"><tspan
              x="23.878906"
              y="80.265721"
-             id="tspan126">11</tspan></text>
+             id="tspan282">11</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-83-3"
@@ -4197,7 +4202,7 @@
            inkscape:label="t_pin_23"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan127">12</tspan></text>
+             id="tspan283">12</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-8"
@@ -4206,7 +4211,7 @@
            inkscape:label="t_pin_25"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan128">13</tspan></text>
+             id="tspan284">13</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-6-6"
@@ -4215,7 +4220,7 @@
            inkscape:label="t_pin_27"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan129">14</tspan></text>
+             id="tspan285">14</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-3-4"
@@ -4224,7 +4229,7 @@
            inkscape:label="t_pin_29"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan130">15</tspan></text>
+             id="tspan286">15</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-0"
@@ -4233,7 +4238,7 @@
            inkscape:label="t_pin_31"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan131">16</tspan></text>
+             id="tspan287">16</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-6-6"
@@ -4242,7 +4247,7 @@
            inkscape:label="t_pin_33"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan132">17</tspan></text>
+             id="tspan288">17</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-7-7"
@@ -4251,7 +4256,7 @@
            inkscape:label="t_pin_35"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan133">18</tspan></text>
+             id="tspan289">18</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-3-6"
@@ -4260,7 +4265,7 @@
            inkscape:label="t_pin_37"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan134">19</tspan></text>
+             id="tspan290">19</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-2-6-4-2-0-2-8-8"
@@ -4269,7 +4274,7 @@
            inkscape:label="t_pin_39"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan135">20</tspan></text>
+             id="tspan291">20</tspan></text>
       </g>
       <g
          id="g222"
@@ -4452,68 +4457,98 @@
        style="font-size:8px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-dasharray:none"><tspan
          x="185.59643"
          y="298.88877"
-         id="tspan137"><tspan
+         id="tspan293"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan136">C1 2200uF 25v C2
+           id="tspan292">C1 2200uF 25v C2
 </tspan></tspan><tspan
          x="186.02043"
          y="309.11042"
-         id="tspan139"><tspan
+         id="tspan295"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan138">C3 1200uF 16v C4
+           id="tspan294">C3 1200uF 16v C4
 </tspan></tspan><tspan
          x="186.05244"
          y="319.33207"
-         id="tspan141"><tspan
+         id="tspan297"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan140">C5 1200uF 16v C6
+           id="tspan296">C5 1200uF 16v C6
 </tspan></tspan><tspan
          x="187.38043"
          y="329.55371"
-         id="tspan143"><tspan
+         id="tspan299"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan142">C7 470uF 10v C8
+           id="tspan298">C7 470uF 10v C8
 </tspan></tspan><tspan
          x="185.77243"
          y="339.77536"
-         id="tspan145"><tspan
+         id="tspan301"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan144">C9 470uF 10v C10
+           id="tspan300">C9 470uF 10v C10
 </tspan></tspan><tspan
          x="184.84843"
          y="349.99701"
-         id="tspan147"><tspan
+         id="tspan303"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan146">C11 100uF 50v C12
+           id="tspan302">C11 100uF 50v C12
 </tspan></tspan><tspan
          x="184.55243"
          y="360.21866"
-         id="tspan149"><tspan
+         id="tspan305"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan148">C13 100uF 25v C14
+           id="tspan304">C13 100uF 25v C14
 </tspan></tspan><tspan
          x="186.47243"
          y="370.44031"
-         id="tspan151"><tspan
+         id="tspan307"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan150">C15 10uF 50v C16
+           id="tspan306">C15 10uF 50v C16
 </tspan></tspan><tspan
          x="186.43243"
          y="380.66196"
-         id="tspan153"><tspan
+         id="tspan309"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan152">C17 10uF 50v C18
+           id="tspan308">C17 10uF 50v C18
 </tspan></tspan><tspan
          x="187.90043"
          y="390.88361"
-         id="tspan155"><tspan
+         id="tspan311"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan154">C19 1uF 50v C20
+           id="tspan310">C19 1uF 50v C20
 </tspan></tspan><tspan
          x="188.10443"
          y="401.10526"
-         id="tspan157"><tspan
+         id="tspan313"><tspan
            style="font-family:Caladea;-inkscape-font-specification:Caladea"
-           id="tspan156">C21 1uF 50v C22</tspan></tspan></text>
+           id="tspan312">C21 1uF 50v C22</tspan></tspan></text>
   </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Kit de electrónica</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Gabriel Gioiosa Farina</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>09/07/2025</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
 </svg>
