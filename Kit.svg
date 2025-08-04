@@ -970,15 +970,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.2777226"
-     inkscape:cx="251.56707"
-     inkscape:cy="629.79574"
+     inkscape:zoom="0.56943065"
+     inkscape:cx="249.37189"
+     inkscape:cy="355.61837"
      inkscape:window-width="1536"
      inkscape:window-height="840"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="svg1" />
   <rect
      style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.492805;stroke-dasharray:none;stroke-opacity:1"
      id="rect284"
@@ -1516,7 +1516,7 @@
            inkscape:label="t_pin_02"><tspan
              x="23.582031"
              y="80.265721"
-             id="tspan2">02</tspan></text>
+             id="tspan157">02</tspan></text>
         <text
            xml:space="preserve"
            id="text68-6-3"
@@ -2104,7 +2104,7 @@
   <g
      id="g210"
      transform="matrix(1,0,0,-1,56.368518,130.17595)"
-     inkscape:label="Grupo de capasitores"
+     inkscape:label="Grupo de capacitores"
      inkscape:highlight-color="#cdcdff"
      style="display:inline">
     <rect
@@ -3209,7 +3209,7 @@
          id="tspan249"
          style="font-size:4.93889px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
          x="-1.8246957"
-         y="-44.563786">Capasitores</tspan></text>
+         y="-44.563786">Capacitores</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4454,7 +4454,7 @@
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-6.7395044,86.45564)"
        id="text1"
-       style="font-size:8px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-dasharray:none"><tspan
+       style="font-size:8px;font-family:Arimo;-inkscape-font-specification:Arimo;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.566929;stroke-dasharray:none"><tspan
          x="185.59643"
          y="298.88877"
          id="tspan293"><tspan
