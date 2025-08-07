@@ -1,15 +1,15 @@
 {
     "circuitos": [
         {
-            "nombre": "circuito1",
+            "nombre": "circuito01",
             "descripcion": "Encendiendo el led (Hola mundo electrónico)"
         },
         {
-            "nombre": "circuito2",
+            "nombre": "circuito02",
             "descripcion": "Encendiendo otro led"
         },
         {
-            "nombre": "circuito3",
+            "nombre": "circuito03",
             "descripcion": "Descripción del Circuito 3"
         }
     ]
