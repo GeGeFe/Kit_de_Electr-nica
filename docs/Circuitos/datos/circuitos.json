@@ -2,11 +2,11 @@
     "circuitos": [
         {
             "nombre": "circuito1",
-            "descripcion": "Descripción del Circuito 1"
+            "descripcion": "Encendiendo el led (Hola mundo electrónico)"
         },
         {
             "nombre": "circuito2",
-            "descripcion": "Descripción del Circuito 2"
+            "descripcion": "Encendiendo otro led"
         },
         {
             "nombre": "circuito3",
