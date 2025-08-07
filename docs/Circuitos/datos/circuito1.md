@@ -1,6 +1,6 @@
 Este es el circuito más simple que puedes hacer con este kit.
 
-Simplemente enciende el led. La resistencia de 220$\Omega$ lo que hace es protegerlo ya que la tensión de la batería es demasiada.
+Simplemente enciende el led. La resistencia de 220ohm lo que hace es protegerlo ya que la tensión de la batería es demasiada.
 
 Nunca conectes el led directamente a la batería.
 
