@@ -1,0 +1,16 @@
+{
+    "circuitos": [
+        {
+            "nombre": "circuito1",
+            "descripcion": "Descripción del Circuito 1"
+        },
+        {
+            "nombre": "circuito2",
+            "descripcion": "Descripción del Circuito 2"
+        },
+        {
+            "nombre": "circuito3",
+            "descripcion": "Descripción del Circuito 3"
+        }
+    ]
+}

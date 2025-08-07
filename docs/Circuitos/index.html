@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Circuito</title>
+    <link rel="stylesheet" href="estilos.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked@1.2.3/marked.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="circuit-image">
+                <h2>Esquema</h2> <!-- Título para la imagen del circuito -->
+                <img id="circuit-img" src="" alt="Circuito" style="display:none;" />
+                <a id="sim1-link" style="display: none;" target="_blank"></a>
+            </div>
+            <nav class="connections">
+                <h2>Conexiones</h2> <!-- Título para la lista de conexiones -->
+                <ul id="connections-list">
+                    <!-- Las conexiones se cargarán aquí -->
+                </ul>
+            </nav>
+        </header>
+        <main class="main-content">
+            <h2>Explicación</h2> <!-- Título para la explicación -->
+            <div id="explanation"></div>
+        </main>
+        <div class="selector">
+            <label for="circuit-select">Selecciona un circuito:</label>
+            <select id="circuit-select">
+                <option value="">--Seleccionar--</option>
+<!--                <option value="circuito1">Circuito 1</option>
+                <option value="circuito2">Circuito 2</option>
+-->
+            </select>
+            <button id="load-button">Cargar Circuito</button>
+        </div>
+    </div>
+    <script src="cargar.js"></script>
+</body>
+</html>
