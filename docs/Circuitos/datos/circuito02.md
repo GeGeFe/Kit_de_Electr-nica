@@ -1,3 +1,2 @@
-Este es el mismo circuito que el anterior pero con otro led.
-
-Simplemente enciende el led protegiéndolo de exceso de tensión con la resistencia.
+En este circuito interponemos el pulsador entre el led y la resistencia de protección.
+Con esto logramos encender y apagar el led según el pulsador deja pasar la corriente o lo impide.

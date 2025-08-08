@@ -6,11 +6,11 @@
         },
         {
             "nombre": "circuito02",
-            "descripcion": "Encendiendo otro led"
+            "descripcion": "Utilizando un pulsador"
         },
         {
             "nombre": "circuito03",
-            "descripcion": "Descripción del Circuito 3"
+            "descripcion": "Leds simultaneos"
         }
     ]
 }
