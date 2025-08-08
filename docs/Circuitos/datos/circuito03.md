@@ -1,3 +1,1 @@
-Este es el mismo circuito que el anterior pero con otro led.
-
-Simplemente enciende el led protegiéndolo de exceso de tensión con la resistencia.
+En este circuito conectamos los leds en paralelo de a pares a través de las resistencias de 220ohm del kit y con un pulsador individual para encenderlos y apagarlos a voluntad.
