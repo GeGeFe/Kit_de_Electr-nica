@@ -37,7 +37,7 @@ h2 {
 }
 
 .circuit-image img {
-    max-width: 100%; /* Ajusta el tamaño de la imagen del circuito */
+    max-width: 50%; /* Ajusta el tamaño de la imagen del circuito */
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 10px; /* Bordes redondeados para la imagen */
 }
