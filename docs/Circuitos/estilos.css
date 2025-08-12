@@ -20,6 +20,7 @@ h2 {
 
 .header {
     display: flex;
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan */
     justify-content: space-between;
     align-items: stretch;
     padding: 20px;
@@ -32,10 +33,11 @@ h2 {
     display: flex;
     flex-direction: column; /* Alinea el título y la imagen verticalmente */
     align-items: center; /* Centra el contenido horizontalmente */
+    width: 100%; /* Asegura que ocupe todo el ancho disponible */
 }
 
 .circuit-image img {
-    max-width: 300px; /* Ajusta el tamaño de la imagen del circuito */
+    max-width: 100%; /* Ajusta el tamaño de la imagen del circuito */
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 10px; /* Bordes redondeados para la imagen */
 }
@@ -46,6 +48,7 @@ h2 {
     background-color: #e9f7ef; /* Fondo claro para la lista de conexiones */
     border-radius: 10px; /* Bordes redondeados */
     padding: 10px; /* Espaciado interno */
+    min-width: 200px; /* Ancho mínimo para la columna de conexiones */
 }
 
 .connections ul {
