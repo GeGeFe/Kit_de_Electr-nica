@@ -11,6 +11,10 @@
         {
             "nombre": "circuito03",
             "descripcion": "Leds simultaneos"
+        },
+        {
+            "nombre": "circuito04",
+            "descripcion": "Fade in-Fade out con transistor"
         }
     ]
 }
